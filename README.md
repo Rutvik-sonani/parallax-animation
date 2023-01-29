@@ -1,2 +1,2 @@
-# webanimation
-Website Animation Code
+# parallax animation
+parallax animation Animation Code
